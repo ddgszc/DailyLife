@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "03648899ceb4c171",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecca4b977f0e3967",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "语法使用.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "930946256e3dbb4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "023abd5cc33d45de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "775ff7bd48e724a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d276ee076cf9991",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0dea7d0d25f86e40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a7701870ec2a9480",
+    "type": "split",
+    "children": [
+      {
+        "id": "350991c9305e4231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44b43127824442a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "语法使用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "30849f0fb7e2a62c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "语法使用.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ecca4b977f0e3967",
+  "lastOpenFiles": [
+    "语法使用.md",
+    "Linux常见问题解决方案.md",
+    "内网渗透/基础知识.md",
+    "Daily/2022-05-17.md",
+    "To do list.md",
+    "未命名 1.md",
+    "2022-05-17.md",
+    "笔记.md",
+    "test.md.md"
+  ]
+}
