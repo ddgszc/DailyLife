@@ -6,8 +6,10 @@
 1.设置git仓库: git init
 
 2.添加文件到仓库：git add readme.txt
+	一次添加多个文件：git add -A .    提交所有被修改的文件，包括新建文件到暂存区
 
 3.提交文件：git commit -m "write a txt"
+	跳过暂存区，直接把工作区变更提交 git commit -am
 
 ## 版本控制
 
@@ -97,7 +99,76 @@ git remote rm \<name\>
 
 删除远程仓库前使用 git remote -v 查看远程信息
 
+### 分支与管理
 
+### 创建与合并分支
+
+1.查看分支：git branch
+
+2.创建分支：git branch \<name\>  
+
+3.创建且切换分支：git checkout -b \<name\>   git switch -c \<name\>
+
+4.切换分支：git switch \<name\>
+
+5.合并指定分支到当前分支：git merge \<name\>
+
+6.删除分支：git branch -d \<name\>
+
+当前分支与别的分支合并时(git merge ) ，如果另外一分支在同一行内容上有冲突，需要先消除冲突，才能完成合并。
+
+7.默认合并分支时会使用fast forward模式，删除分支后不可恢复，添加 --no-ff参数，保留删除记录
+git merge --no-ff -m "merge with"
+
+
+
+### Bug分支
+
+​	 	在开发过程中，发现bug，可以通过一个临时的Bug分支修复，修复后再合并。
+
+1.保存分支修改进程：git stash
+
+2.切换到master并新建一条bug分支进行修复：git switch master; git switch -c bug-01;
+
+3.修改完后在master合并：git merge bug-01
+
+4.在开发分支同步Bug修复工作：
+
+- 查看保存的工作现场：git stash list
+- 恢复工作现场并删除之前的工作现场缓存：git  stash pop
+- 复制Bug修复提交到当前分支：git cherry-pick 5a8c6s2
+
+### 多人协作
+
+​		1.将共同的开发版本放在公共平台(比如：github)，各个开发者git clone到本地进行开发，默认情况下，能够看到master分支。
+
+​		2.新建一条dev分支开发，开发完成后，git push origin master 推送到远程分支
+
+​		3.如果存在冲突，先把平台上最新的内容clone下来，在本地解决冲突后再push
+
+
+
+## 标签管理
+
+​		每次提交git会有hash值作标记，不利于人去查看每次提交的内容，可以为每次提交打上标签tag，方便查看。
+
+1.git tag \<tag name\>——新建标签，默认指向HEAD
+
+2.git tag \<tag name\> \<commit id\>  为指定commit打标签
+
+3.git tag 查看所有标签
+
+4.git show \<tag name\> 查看标签提交的内容
+
+
+
+**标签操作**
+
+1.删除标签：git tag -d v0.1
+
+2.推送标签：git push origin v1.0或者 git push origin --tags（推送全部标签）
+
+3.删除远程标签：a.先删除本地标签。b.再git push origin :refs/tags/v0.1
 
 
 
