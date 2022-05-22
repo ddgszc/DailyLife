@@ -30,9 +30,12 @@
 - XSS
 - 基于DOM漏洞
 - CSRF
+- CSV injection
 - CORS 跨域漏洞
 - 点击劫持
 - WebSockets
+- FTP injection
+- ORM injection
 - 反序列化
 - SSTI 模板注入
 - 网络缓存投毒
