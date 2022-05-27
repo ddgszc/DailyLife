@@ -1,3 +1,9 @@
+```
+		把要学习的文章知识收集起来
+```
+
+---
+
 ## 内网渗透
 
 - [内网渗透知识基础及流程 - 安全客，安全资讯平台 (anquanke.com)](https://www.anquanke.com/post/id/170471)
@@ -17,7 +23,7 @@
 ## 学习目标点 
 
 - SQL injection
-- Authentication(未授权访问)
+- Authentication(未授权访问)![image-20220523233503576](../Pic/image-20220523233503576.png)
 - Directory traversal 目录回溯
 - Command injection
 - 逻辑漏洞
