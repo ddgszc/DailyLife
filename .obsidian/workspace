@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "18aca1041aee1386",
+        "id": "ff40beaf6625fa9d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "image",
+          "state": {
+            "file": "Z=Pic/image-20220528003949693.png"
+          }
         }
       }
     ],
@@ -74,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Z=Pic/image-20220528003949693.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Z=Pic/image-20220528003949693.png"
+              }
             }
           }
         ]
@@ -99,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "18aca1041aee1386",
+  "active": "ff40beaf6625fa9d",
   "lastOpenFiles": [
+    "Z=Pic/image-20220528003949693.png",
+    "Z=Pic/image-20220528003915805.png",
+    "Y=收集箱/SecList.md",
+    "Y=收集箱/read list.md",
+    "A=工具使用/Git/Git语法.md",
+    "X=ArchivedFile/安全杂谈/如何挖掘漏洞.pdf",
     "Pic/image-20220528003949693.png",
     "Pic/image-20220528003915805.png",
     "Pic/image-20220523233503576.png",
-    "Q=errorTips/Linux常见问题解决方案.md",
-    "Y=收集箱/read list.md",
-    "Z=Pic/0.jpeg",
-    "Z=Pic/image-20220518234748209.png",
-    "A=工具使用/Git/Git语法.md",
-    "D=收集箱/read list.md",
-    "语法使用.md"
+    "Q=errorTips/Linux常见问题解决方案.md"
   ]
 }
