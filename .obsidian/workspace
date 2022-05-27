@@ -7,13 +7,8 @@
         "id": "18aca1041aee1386",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "D=收集箱/read list.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -79,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D=收集箱/read list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D=收集箱/read list.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -109,15 +101,15 @@
   },
   "active": "18aca1041aee1386",
   "lastOpenFiles": [
+    "Pic/image-20220528003949693.png",
+    "Pic/image-20220528003915805.png",
+    "Pic/image-20220523233503576.png",
+    "Q=errorTips/Linux常见问题解决方案.md",
+    "Y=收集箱/read list.md",
+    "Z=Pic/0.jpeg",
+    "Z=Pic/image-20220518234748209.png",
+    "A=工具使用/Git/Git语法.md",
     "D=收集箱/read list.md",
-    "语法使用.md",
-    "readme.md.md",
-    "Linux常见问题解决方案.md",
-    "内网渗透/基础知识.md",
-    "Daily/2022-05-17.md",
-    "To do list.md",
-    "未命名 1.md",
-    "2022-05-17.md",
-    "笔记.md"
+    "语法使用.md"
   ]
 }

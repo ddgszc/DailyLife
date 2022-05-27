@@ -23,7 +23,7 @@
 ## 学习目标点 
 
 - SQL injection
-- Authentication(未授权访问)![image-20220523233503576](../Pic/image-20220523233503576.png)
+- Authentication(未授权访问)
 - Directory traversal 目录回溯
 - Command injection
 - 逻辑漏洞
