@@ -7,9 +7,12 @@
         "id": "ff40beaf6625fa9d",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Z=Pic/image-20220528003949693.png"
+            "file": "Y=收集箱/read list.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
           }
         }
       }
@@ -76,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Z=Pic/image-20220528003949693.png",
+                "file": "Y=收集箱/read list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Z=Pic/image-20220528003949693.png"
+                "file": "Y=收集箱/read list.md"
               }
             }
           }
@@ -106,10 +109,10 @@
   },
   "active": "ff40beaf6625fa9d",
   "lastOpenFiles": [
+    "Y=收集箱/read list.md",
+    "Y=收集箱/SecList.md",
     "Z=Pic/image-20220528003949693.png",
     "Z=Pic/image-20220528003915805.png",
-    "Y=收集箱/SecList.md",
-    "Y=收集箱/read list.md",
     "A=工具使用/Git/Git语法.md",
     "X=ArchivedFile/安全杂谈/如何挖掘漏洞.pdf",
     "Pic/image-20220528003949693.png",
