@@ -20,9 +20,17 @@
 - :apple:[Spring Boot RCE到内存马探索 | BlogPapers (sumsec.me)](https://sumsec.me/2022/Spring Boot RCE到内存马探索.html)
 - :cloud_with_lightning:[渗透测试手册 - Pentest Handbook (heresecurity.wiki)](https://www.heresecurity.wiki/#/README.md)
 
-## 应急响应
+## Fuzzing
+
+- [G.O.S.S.I.P 阅读推荐 2022-06-10 Fuzzingbook (qq.com)](https://mp.weixin.qq.com/s/oVBM4-QsYHQXL7J4TgQ5fQ) 
+- [(33条消息) 一本用代码写出来的Fuzzing书籍_riusksk的博客-CSDN博客](https://blog.csdn.net/riusksk/article/details/112057446)
+-  FuzzingBook英文版： [uds-se/fuzzingbook: Project page for "The Fuzzing Book" (github.com) ](https://github.com/uds-se/fuzzingbook) 
+- 
+
+## 应急响应&运维
 
 - [安全运营之路 (y1ng.org)](https://wiki.y1ng.org/)
+- [浅谈Windows传统取证 - 跳跳糖 (tttang.com)](https://tttang.com/archive/1608/#toc_)
 
 
 
@@ -71,10 +79,6 @@ SRC挖掘(赏金猎人)
 
 - [Maskhe/javasec: 自己学习java安全的一些总结，主要是安全审计相关 (github.com)](https://github.com/Maskhe/javasec)
 - JAVA基础+SSM框架学习(B站找视频)+SpringBoot
-
-
-
-
 
 ## eBPF
 
